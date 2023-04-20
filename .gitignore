@@ -1,0 +1,9 @@
+.ccls-cache/
+CMakeCache.txt
+CMakeFiles/
+build.ninja
+cmake_install.cmake
+compile_commands.json
+.cmake/
+Makefile
+mo
